@@ -14,33 +14,33 @@ git clone https://github.com/safinsingh/terra.vim ~/.vim/pack/plugins/start/terr
 
 ### [vim-plug][]
 
-1. Add the following configuration to your `.vimrc`.
+1. Add the following configuration to your `.vimrc` or `init.vim`.
 
-   Plug 'safinsingh/terra.vim'
+   `Plug 'safinsingh/terra.vim'`
 
 2. Install with `:PlugInstall`
 
 ### [Vundle][]
 
-1. Add the following configuration to your `.vimrc`.
+1. Add the following configuration to your `.vimrc` or `init.vim`.
 
-   Plugin 'safinsingh/terra.vim'
+   `Plugin 'safinsingh/terra.vim'`
 
 2. Install with `:PluginInstall`
 
 ### [NeoBundle][]
 
-1. Add the following configuration to your `.vimrc`.
+1. Add the following configuration to your `.vimrc` or `init.vim`.
 
-   NeoBundle 'safinsingh/terra.vim'
+   `NeoBundle 'safinsingh/terra.vim'`
 
 2. Install with `:NeoBundleInstall`
 
 ### [dein.vim][]
 
-1. Add the following configuration to your `.vimrc`.
+1. Add the following configuration to your `.vimrc` or `init.vim`.
 
-   call dein#add('safinsingh/terra.vim')
+   `call dein#add('safinsingh/terra.vim')`
 
 2. Install with `:call dein#install()`
 
